@@ -1,4 +1,5 @@
-# Mukund Mangal
+# Mukund Mangal  
+![Profile Views](https://komarev.com/ghpvc/?username=mukundmangal&label=Profile%20Views&color=0e75b6&style=flat)
 
 Hi! I'm Mukund, a passionate web developer and AI enthusiast. I love building intuitive, responsive web applications and exploring new technologies.
 
@@ -8,8 +9,6 @@ Hi! I'm Mukund, a passionate web developer and AI enthusiast. I love building in
 
 **B.Tech** – Delhi Technological University, Delhi | 
 *Aug 2023 – May 2027*
-
-
 
 ---
 
