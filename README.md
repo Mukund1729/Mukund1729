@@ -1,83 +1,296 @@
-# Mukund Mangal  
-![Profile Views](https://komarev.com/ghpvc/?username=mukundmangal&label=Profile%20Views&color=0e75b6&style=flat)
+# Hi 👋 I'm Mukund Mangal
 
-Hi! I'm Mukund, a passionate web developer and AI enthusiast. I love building intuitive, responsive web applications and exploring new technologies.
+### Software Engineer • Full Stack Developer • AI Enthusiast
 
----
-
-## 📚 Education
-
-**B.Tech** – Delhi Technological University, Delhi | 
-*Aug 2023 – May 2027*
+I'm a software developer passionate about building scalable backend systems, AI-powered applications, and modern web experiences. I enjoy solving challenging problems, exploring distributed systems, and continuously learning new technologies.
 
 ---
 
-## 💼 Experience
+# 🚀 About Me
 
-**Frontend Development Intern** – Edfora, Delhi (EdTech Platform)  
-*June – July 2025*  
-- Developed fast, functional, and intuitive web interfaces using JS/TS and Angular 2+.  
-- Created mobile-responsive pages ensuring cross-browser compatibility.  
-- Translated UI/UX designs into functional pages and banners, optimized code for performance.  
-- Gained experience in responsive design, client/server-side rendering, HTML5/CSS, SASS/SCSS, and Git versioning.  
-
----
-
-## 🛠 Projects
-
-**[TerraAlert Dashboard](#)** – Real-time disaster monitoring and simulation  
-- Interactive 3D rotating globe using Three.js + React Three Fiber.  
-- Built responsive UI with React, Tailwind CSS, Framer Motion, and Recharts for visualizations.  
-- Features: live alerts, disaster simulations, statistical dashboards, and severity classification.
-
-**[CineShelf / Visual.cineaste](#)** – Full-stack movie discovery platform  
-- AI-powered recommendations via TMDb API, secure JWT authentication, and role-based admin panel.  
-- Node.js & Express.js backend, MongoDB database, React + Tailwind CSS frontend.  
-- Optimized backend queries, improving API response time by 40%.
-
-**[MeetMind](#)** – Speech-to-text conversion and AI summaries from audio links  
-- Achieved 30% faster execution with optimized processing.  
-- Node.js backend, React + Tailwind CSS frontend.
-
-**[NaukriDunga](#)** – Job portal with employer dashboards and advanced filtering  
-- Integrated advanced search and filtering, improving query performance by 35%.  
-- Next.js, Node.js, Express.js backend, MongoDB database, responsive frontend using Tailwind CSS.
+- 💻 SDE Intern at **Red Hat India**
+- 🎓 B.Tech, Delhi Technological University (2023–2027)
+- 🧠 LeetCode Knight (1650+ Problems Solved)
+- 🤖 Interested in AI, Distributed Systems & Cloud Native Development
+- ✍️ Technical Writer on Medium
+- 🎬 Founder of **Visual Cineaste**
 
 ---
 
-## 🛠 Technical Skills
+# 💼 Experience
 
-- **Programming Languages:** C, C++, JavaScript  
-- **Frontend:** HTML, CSS, React.js, Redux.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, PostgreSQL  
-- **Operating Systems:** Windows, macOS, Linux  
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify  
+## SDE Intern — Red Hat India
+**June 2026 – Present**
 
----
-
-## 🏆 Achievements
-
-- 2nd Runner Up at **Chill-O-Mania (Invictus, Techfest IEEE), 2025**  
-- **LeetCode:** Solved 300+ problems [LeetCode Profile](#)  
+- Building enterprise microservices using **Java** and **Go**
+- Working on Kubernetes-based cloud infrastructure using **Red Hat OpenShift**
+- Automating CI/CD workflows with **Ansible**
+- Improving API performance, scalability, and deployment reliability
 
 ---
 
-## ✍️ Content Creation
+# 🚀 Featured Projects
 
-**Content Creator** – Medium Platform (2023 – Present)  
-- Authored 15+ articles on technology, software development, and film analysis.  
-- [Medium Profile](https://medium.com/@mukundmangal)  
+## 🔹 CodeArena Platform
+**Distributed Microservices Coding Platform**
+
+A secure coding platform capable of executing untrusted code inside isolated Docker containers.
+
+### Features
+
+- Docker Sandbox Execution
+- Distributed Microservices Architecture
+- JWT Authentication & RBAC
+- AI Code Review using GPT
+- PostgreSQL + pgvector Vector Search
+- Redis Caching
+- Secure REST APIs
+
+**Tech Stack**
+
+`React` `Node.js` `Spring Boot` `Java` `Docker` `PostgreSQL` `Redis` `JWT` `LLMs`
 
 ---
 
-## 📫 Contact
+## 🔹 CineShelf / Visual Cineaste
 
-- **Phone:** +91-9817422973  
-- **Email:** mukundmangal2173@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mukundmangal](#)  
-- **GitHub:** [github.com/mukundmangal](#)  
+AI-powered movie discovery platform integrating Large Language Models for personalized recommendations.
+
+### Features
+
+- AI Movie Assistant
+- Personalized Watchlists
+- Secure Authentication
+- Admin Dashboard
+- Optimized Backend APIs
+- Responsive Modern UI
+
+**Tech Stack**
+
+`React`
+`Tailwind CSS`
+`Node.js`
+`Express`
+`MongoDB`
+`OpenAI APIs`
 
 ---
 
-> "I build web experiences and explore the intersection of technology and AI."
+## 🔹 Secure Bank System
+
+Enterprise banking backend built with PostgreSQL and Spring Boot.
+
+### Features
+
+- ACID Transactions
+- Stored Procedures
+- Optimized Indexing
+- Table Partitioning
+- Dockerized Deployment
+
+**Tech Stack**
+
+`Spring Boot`
+`PostgreSQL`
+`Docker`
+
+---
+
+## 🔹 AyurTaila AI
+
+AI-powered healthcare platform for Dosha analysis using computer vision.
+
+### Features
+
+- OpenCV Image Processing
+- AI Chatbot
+- Modular Architecture
+- Secure APIs
+
+**Tech Stack**
+
+`Python`
+`OpenCV`
+`React`
+`Node.js`
+`MongoDB`
+
+---
+
+# 🌎 Other Projects
+
+## 🔹 TerraAlert Dashboard
+
+Real-time disaster monitoring dashboard with interactive globe visualization.
+
+**Highlights**
+
+- Three.js Interactive Globe
+- Disaster Simulation
+- Analytics Dashboard
+- Live Alert System
+
+**Tech**
+
+React • Three.js • React Three Fiber • Tailwind CSS • Framer Motion • Recharts
+
+---
+
+## 🔹 MeetMind
+
+AI-powered meeting assistant that converts speech into structured summaries and tasks.
+
+**Highlights**
+
+- Speech-to-Text
+- AI Summary Generation
+- Task Extraction
+- Optimized Processing Pipeline
+
+**Tech**
+
+React • Node.js • Express • OpenAI APIs
+
+---
+
+## 🔹 NaukriDunga
+
+Full-stack recruitment platform for employers and job seekers.
+
+**Highlights**
+
+- Employer Dashboard
+- Resume Management
+- Authentication
+- Advanced Search & Filtering
+
+**Tech**
+
+Next.js • Node.js • MongoDB • Tailwind CSS
+
+---
+
+## 🔹 Portfolio Website
+
+Responsive personal portfolio showcasing projects, achievements and blogs.
+
+**Tech**
+
+React • Tailwind CSS • Framer Motion
+
+---
+
+
+
+# 🛠 Tech Stack
+
+## Languages
+
+- C
+- C++
+- Java
+- JavaScript
+- Python
+- SQL
+
+---
+
+## Frontend
+
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Redux
+- Framer Motion
+
+---
+
+## Backend
+
+- Node.js
+- Express.js
+- Spring Boot
+- REST APIs
+
+---
+
+## Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- pgvector
+
+---
+
+## Cloud & DevOps
+
+- Docker
+- Kubernetes
+- Red Hat OpenShift
+- Ansible
+- Git
+- GitHub
+- Vercel
+- Netlify
+- Render
+
+---
+
+## AI & Machine Learning
+
+- OpenAI APIs
+- LLM Integration
+- RAG
+- Prompt Engineering
+- OpenCV
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Solved **1650+ DSA Problems**
+- 👑 **LeetCode Knight**
+- 🏆 2nd Runner-Up — Chill-O-Mania (Invictus IEEE)
+- 📝 Published **15+ Technical Articles** on Medium
+- 🎭 Directed Award-Winning Short Film **Hasrat**
+
+---
+
+# 📚 Relevant Coursework
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Database Management Systems
+- Object-Oriented Programming
+- Software Engineering
+
+---
+
+# 📈 GitHub Stats
+
+- 💻 Full Stack Development
+- ⚡ Open Source Enthusiast
+- 🤖 AI Application Development
+- ☁️ Cloud Native Systems
+- 📦 Distributed Systems
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** mukundmangal.23ce078@dtu.ac.in
+
+💼 **LinkedIn:** https://linkedin.com/in/mukundmangal
+
+💻 **GitHub:** https://github.com/mukundmangal
+
+📝 **Medium:** https://medium.com/@mukundmangal
+
+---
+
+> *Building scalable software, exploring AI, and creating impactful products one project at a time.*
