@@ -10,7 +10,7 @@ I'm a software developer passionate about building scalable backend systems, AI-
 
 - 💻 SDE Intern at **Red Hat India**
 - 🎓 B.Tech, Delhi Technological University (2023–2027)
-- 🧠 LeetCode Knight (1650+ Problems Solved)
+- 🧠 Codeforces Expert (400+ Problems Solved)
 - 🤖 Interested in AI, Distributed Systems & Cloud Native Development
 - ✍️ Technical Writer on Medium
 - 🎬 Founder of **Visual Cineaste**
