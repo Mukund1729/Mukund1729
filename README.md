@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukund1729&label=Profile%20Views&color=blue&style=plastic">
+  <img src="https://img.shields.io/badge/Profile%20Views-1824-58A6FF?style=plastic">
 </p>
 
 ---
