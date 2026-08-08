@@ -51,13 +51,13 @@
 <tr>
 
 <td>
-<a href="https://codeforces.com/profile/Mukul457">
+<a href="https://codeforces.com/profile/Kratos457">
 <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 </td>
 
 <td>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Kratos_457/">
 <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 </td>
@@ -99,13 +99,13 @@
 </td>
 
 <td>
-<a href="https://www.linkedin.com/in/mukundmangal/">
+<a href="www.linkedin.com/in/mukund-mangal-1a9274283">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white">
 </a>
 </td>
 
 <td>
-<a href="https://medium.com/@mukundmangal">
+<a href="https://medium.com/@mukundmangal2173">
 <img src="https://img.shields.io/badge/Medium-000000?style=plastic&logo=medium&logoColor=white">
 </a>
 </td>
