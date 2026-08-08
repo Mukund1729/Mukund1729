@@ -70,6 +70,36 @@ React • Tailwind CSS • Node.js • Express • MongoDB • OpenAI APIs
 
 ---
 
+## 🔹 Site Extension RAG
+**New Project**
+
+A browser extension and backend project that ingests public website content into a retrieval-augmented generation workspace and lets users ask questions grounded in that content.
+
+### Highlights
+- FastAPI backend for crawling, chunking, indexing, and answer generation
+- Chrome/Edge extension UI for ingesting websites and chatting with the indexed content
+- Evaluation utilities for testing retrieval and generation quality
+
+**Tech Stack**
+Python • FastAPI • RAG • Chrome Extension • Docker
+
+---
+
+## 🔹 Site Extension RAG
+**New Project**
+
+A browser extension and backend project that ingests public website content into a retrieval-augmented generation workspace and lets users ask questions grounded in that content.
+
+### Highlights
+- FastAPI backend for crawling, chunking, indexing, and answer generation
+- Chrome/Edge extension UI for ingesting websites and chatting with the indexed content
+- Evaluation utilities for testing retrieval and generation quality
+
+**Tech Stack**
+Python • FastAPI • RAG • Chrome Extension • Docker
+
+---
+
 ## 🔹 Secure Bank System
 Enterprise banking backend built with PostgreSQL and Spring Boot.
 
