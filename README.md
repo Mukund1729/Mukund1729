@@ -68,7 +68,7 @@
 
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/600%2B-Total%20DSA%20Problems-00B894?style=plastic">
+<img src="https://img.shields.io/badge/800%2B-Total%20DSA%20Problems-00B894?style=plastic">
 
 </p>
 
@@ -465,12 +465,12 @@ CF Problems
 </td>
 
 <td align="center">
-<b>200+</b><br>
+<b>400+</b><br>
 LeetCode Problems
 </td>
 
 <td align="center">
-<b>600+</b><br>
+<b>800+</b><br>
 Total DSA
 </td>
 
@@ -481,7 +481,7 @@ Total DSA
 
 - 🏆 **Codeforces Expert — 402 Problems Solved**
 - 💻 **800+ Total DSA Problems Solved**
-- 🟠 **800+ LeetCode Problems Solved**
+- 🟠 **400+ LeetCode Problems Solved**
 - 🥉 **2nd Runner-Up — Chill-O-Mania (Invictus IEEE)**
 - 📝 Published **15+ Technical Articles on Medium**
 - 🎭 Directed **Award-Winning Short Film — Hasrat**
