@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1824-58A6FF?style=plastic">
-</p>
+
 
 ---
 
