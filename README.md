@@ -21,7 +21,7 @@
 - 💻 SDE Intern at **Red Hat India**
 - 🎓 B.Tech at **Delhi Technological University**
 - 🏆 **Codeforces Expert**
-- 💻 **600+ Total DSA Problems Solved**
+- 💻 **800+ Total DSA Problems Solved**
 - ✍️ Technical Writer on **Medium**
 - 🎬 Founder of **Visual Cineaste**
 - 🚀 Love building scalable and impactful software
@@ -51,7 +51,7 @@
 
 <td>
 <a href="https://leetcode.com/u/Kratos_457/">
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 </td>
 
@@ -480,8 +480,8 @@ Total DSA
 <br>
 
 - 🏆 **Codeforces Expert — 402 Problems Solved**
-- 💻 **600+ Total DSA Problems Solved**
-- 🟠 **200+ LeetCode Problems Solved**
+- 💻 **800+ Total DSA Problems Solved**
+- 🟠 **800+ LeetCode Problems Solved**
 - 🥉 **2nd Runner-Up — Chill-O-Mania (Invictus IEEE)**
 - 📝 Published **15+ Technical Articles on Medium**
 - 🎭 Directed **Award-Winning Short Film — Hasrat**
